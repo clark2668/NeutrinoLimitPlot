@@ -1,7 +1,7 @@
 # NeutrinoLimitPlot
 Python code to make a plot of the leading neutrino limits.
 
-##plotting_program
+## plotting_program
 
 - This contains the code to actually make the plot.
 
@@ -18,5 +18,5 @@ Python code to make a plot of the leading neutrino limits.
 - Currently, the program also requires a functioning latex distribution to make the plot look extra pretty. Uncomment those lines if you do not have this.
 
 
-##source_info
+## source_info
 This file contains the 
