@@ -20,7 +20,8 @@ Python code to make a plot of the leading neutrino limits. The y-axis is Flux an
 - In particular, it includes appropriately formated Bibtex entries for use in other Latex papers.
 
 ## Acknowledgements and Other Notes
-- Many thanks to Ming-Yuan Lu for the projection of the ARA sensitivity
-- Please feel free to use this code, but please acknowledge the source
+- Many thanks to Ming-Yuan Lu for the projection of the ARA sensitivity.
+- Please feel free to use this code, but please acknowledge the source.
 - If you find a mistake in my digitization or plotting, please file an "Issue", I'm happy to fix it!
+- If your favorite limit is missing, or you have a new updated publication limit you want included, please let me know also!
 
