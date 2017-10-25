@@ -17,6 +17,11 @@ Python code to make a plot of the leading neutrino limits.
   
 - Currently, the program also requires a functioning latex distribution to make the plot look extra pretty. Uncomment those lines if you do not have this.
 
-
 ## source_info
-This file contains the 
+
+- This file contains the original PDF source files, the PNG screen captures of the digitized plots, and the CSV files that are the results of digitization.
+
+- The plots were all digitized out of their original publications by [WebPlotDigitizer](http://arohatgi.info/WebPlotDigitizer/).
+
+### The limits on this plot are the following:
+
