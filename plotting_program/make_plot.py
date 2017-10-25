@@ -1,3 +1,11 @@
+#########################################################
+###################
+#######
+####     Copyright 2017, Brian Clark, All Rights Reserved
+#######
+###################
+#########################################################
+
 # -*- coding: utf-8 -*-
 import numpy as np #import numpy
 import matplotlib.pyplot as plt #import matplotlib
